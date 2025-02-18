@@ -2,8 +2,11 @@
 
 ## :rocket: Sobre mí
 :mag: Me encanta explorar nuevas tecnologías y mejorar mis habilidades.
+
 :books: Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas
+
 :dart: Especializado en desarrollo con Java.
+
 :speech_balloon: Siempre dispuesto a aprender y colaborar en proyectos interesantes.
 
 ## :tools: Tecnologías y herramientas
