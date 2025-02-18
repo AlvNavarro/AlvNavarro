@@ -9,23 +9,23 @@
 
 :speech_balloon: Siempre dispuesto a aprender y colaborar en proyectos interesantes.
 
-## :tools: Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 ### :computer: Lenguajes de Programación
 - JavaScript
 - Java
 - SQLite
 - SQL
 
-### :art: Desarrollo Web
+### 💻 Desarrollo Web
 - HTML
 - CSS
 
-### :wrench: Herramientas & Otras Tecnologías
+### 🔧 Herramientas & Otras Tecnologías
 - GitHub
 - VS Code
 - VS
 
-## :pushpin: Proyectos Destacados
+## 📌 Proyectos Destacados
 
 :small_blue_diamond: **[Proyecto 1](URL del repositorio)**: Breve descripción del proyecto.
 
@@ -33,6 +33,6 @@
 
 :bulb: Puedes ver más proyectos en mi perfil de GitHub :rocket:
 
-## :mailbox: Contacto
+## 📫 Contacto
 - :e_mail: Email: [navarrochica.alvaro@gmail.com](mailto:navarrochica.alvaro@gmail.com)
 - :camera: Instagram: [@alvaro_nc_](https://instagram.com/alvaro_nc_)
