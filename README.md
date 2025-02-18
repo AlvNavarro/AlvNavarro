@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Álvaro! :wave:
 
-<!--
-**AlvNavarro/AlvNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :rocket: Sobre mí
+:mag: Me encanta explorar nuevas tecnologías y mejorar mis habilidades.
+:books: Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas
+:dart: Especializado en desarrollo con Java.
+:speech_balloon: Siempre dispuesto a aprender y colaborar en proyectos interesantes.
 
-Here are some ideas to get you started:
+## :tools: Tecnologías y herramientas
+### :computer: Lenguajes de Programación
+- JavaScript
+- Java
+- SQLite
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :art: Desarrollo Web
+- HTML
+- CSS
+
+### :wrench: Herramientas & Otras Tecnologías
+- GitHub
+- VS Code
+- VS
+
+## :pushpin: Proyectos Destacados
+
+:small_blue_diamond: **[Proyecto 1](URL del repositorio)**: Breve descripción del proyecto.
+
+:small_blue_diamond: **[Proyecto 2](URL del repositorio)**: Breve descripción del proyecto.
+
+:bulb: Puedes ver más proyectos en mi perfil de GitHub :rocket:
+
+## :mailbox: Contacto
+- :e_mail: Email: [navarrochica.alvaro@gmail.com](mailto:navarrochica.alvaro@gmail.com)
+- :camera: Instagram: [@alvaro_nc_](https://instagram.com/alvaro_nc_)
