@@ -17,8 +17,8 @@
 - SQL
 
 ### 💻 Desarrollo Web
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ### 🔧 Herramientas & Otras Tecnologías
 - GitHub
