@@ -34,5 +34,5 @@
 :bulb: Puedes ver más proyectos en mi perfil de GitHub :rocket:
 
 ## 📫 Contacto
-- :e_mail: Email: [navarrochica.alvaro@gmail.com](mailto:navarrochica.alvaro@gmail.com)
-- :camera: Instagram: [@alvaro_nc_](https://instagram.com/alvaro_nc_)
+- 📧 Email: [navarrochica.alvaro@gmail.com](mailto:navarrochica.alvaro@gmail.com)
+- 📷 Instagram: [@alvaro_nc_](https://instagram.com/alvaro_nc_)
