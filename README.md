@@ -11,10 +11,9 @@
 
 ## 🛠️ Tecnologías y herramientas
 ### :computer: Lenguajes de Programación
-- JavaScript
 - Java
-- SQLite
-- SQL
+- Kotlin
+- Python
 
 ### 💻 Desarrollo Web
 - HTML5
