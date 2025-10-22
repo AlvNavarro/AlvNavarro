@@ -5,8 +5,6 @@
 
 :books: Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas
 
-:dart: Especializado en desarrollo con Java.
-
 :speech_balloon: Siempre dispuesto a aprender y colaborar en proyectos interesantes.
 
 ## 🛠️ Tecnologías y herramientas
@@ -23,10 +21,11 @@
 - GitHub
 - VS Code
 - VS
+- WordPress
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos
 
-:small_blue_diamond: **[Proyecto 1](URL del repositorio)**: Breve descripción del proyecto.
+:small_blue_diamond: **[Proyecto 1](https://github.com/AlvNavarro/Python_DAM)**: Breve descripción del proyecto.
 
 :small_blue_diamond: **[Proyecto 2](URL del repositorio)**: Breve descripción del proyecto.
 
