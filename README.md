@@ -1,7 +1,7 @@
 # ¡Hola, soy Álvaro! :wave:
 
 ## :rocket: Sobre mí
-:mag: Me encanta explorar nuevas tecnologías y mejorar mis habilidades.
+:mag: Me gusta aprender y mejorar mis habilidades.
 
 :books: Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas
 
