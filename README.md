@@ -25,9 +25,7 @@
 
 ## 📌 Proyectos
 
-:small_blue_diamond: **[Proyecto 1](https://github.com/AlvNavarro/Python_DAM)**: Breve descripción del proyecto.
-
-:small_blue_diamond: **[Proyecto 2](URL del repositorio)**: Breve descripción del proyecto.
+:small_blue_diamond: **[Python](https://github.com/AlvNavarro/Python_DAM)**: Trabajos de clase.
 
 :bulb: Puedes ver más proyectos en mi perfil de GitHub :rocket:
 
