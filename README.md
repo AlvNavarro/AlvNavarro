@@ -21,7 +21,6 @@
 - GitHub
 - VS Code
 - VS
-- WordPress
 
 ## 📌 Proyectos
 
