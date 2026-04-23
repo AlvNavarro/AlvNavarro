@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologías y herramientas
 ### :computer: Lenguajes de Programación
 - Java
-- Kotlin
+- Flutter
 - Python
 
 ### 💻 Desarrollo Web
@@ -20,7 +20,8 @@
 ### 🔧 Herramientas & Otras Tecnologías
 - GitHub
 - VS Code
-- VS
+- Wordpress
+- Shopify
 
 ## 📌 Proyectos
 
