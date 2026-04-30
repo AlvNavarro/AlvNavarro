@@ -16,12 +16,12 @@
 ### 💻 Desarrollo Web
 - HTML5
 - CSS3
+- JavaScript
 
 ### 🔧 Herramientas & Otras Tecnologías
 - GitHub
 - VS Code
 - Wordpress
-- Shopify
 
 ## 📌 Proyectos
 
